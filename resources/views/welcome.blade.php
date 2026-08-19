@@ -281,7 +281,7 @@
                     </div>
                 </div>
                 <div class="card-justificativa">
-                    <div class="div-icon"><i class="i-card-justificativa fa-light fa-phone"></i></div>
+                    <div class="div-icon"><i class="i-card-justificativa fa-solid fa-phone"></i></div>
                     <div>
                         <h4 class="h4-card">Como justificar</h4>
                     </div>
@@ -298,10 +298,107 @@
                         <p class="p-card-text">O prazo para justificativa é de até 60 dias após cada turno da eleição. Após esse prazo, será necessário pagar uma multa de R$ 3,51.</p>
                     </div>
                 </div>
+            </div>
+        </div>
+        <div class="body-row-5">
+            <div style="text-align: center;">
+                <span class="h2-row-5">SEU LOCAL</span>
+                <h3 class="h3-row-5">Consultar Local de Votação</h3>
+                <p class="p-row-5">A consulta é feita diretamente no portal oficial do TSE - leva menos <br> de 1 minuto e você só precisa do seu CPF.</p>
+            </div>
+            <div class="body-container-row-5">
+                <div class="body-row-5-col-1">
+                    <span class="h4-card">Portal do TSE</span>
+                    <p class="p-row-5-card">O Tribunal Superior Eleitoral disponibiliza uma ferramenta gratuita e oficial para que você descubra seu local de votação, seção e zona eleitoral.</p>
+                    <div style="margin-top: 20px;">
+                        <h4 class="h4-body-row-5-card">O QUE VOCÊ VAI PRECISAR</h4>
+                        <h5 class="h5-body-row-5-card">Apenas seu CPF ou número do título de eleitor</h5>
+                    </div>
+                    <div>
+                        <h4 class="h4-body-row-5-card">ONDE ACESSAR</h4>
+                        <h5 class="h5-body-row-5-card">justicaeleitoral.jus.br - site oficial e seguro</h5>
+                    </div>
+                    <div>
+                        <h4 class="h4-body-row-5-card">DISPONIBILIDADE</h4>
+                        <h5 class="h5-body-row-5-card">Gratuito, 24h por dia, qualquer dispositivo</h5>
+                    </div>
+                    <div>
+                        <div class="link-tse-div">
+                            <a href="" class="link-tse"><i class="fa-solid fa-globe"></i> Acessar o site do TSE <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="body-row-5-col-2">
+                    <span class="span-consulta">EXEMPLO DE RESULTADO:</span>
+                    <div class="card-local">
+                        <div>
+                            <h4 class="h4-body-row-5-card-col-2">Local encontrado</h4>
+                        </div>
+                        <div class="body-row-5-div-col-2">
+                            <p class="info">Nome</p>
+                            <p class="data">Maria Souza</p>
+                        </div>
+                        <div class="separator-card-consulta"></div>
+                        <div class="body-row-5-div-col-2">
+                            <p class="info">Local</p>
+                            <p class="data">Escola Est. João Pessoa</p>
+                        </div>
+                        <div class="separator-card-consulta"></div>
+                        <div class="body-row-5-div-col-2">
+                            <p class="info">Endereço</p>
+                            <p class="data">Rua das Palmeiras, 123</p>
+                        </div>
+                        <div class="separator-card-consulta"></div>
+                        <div class="body-row-5-div-col-2">
+                            <p class="info">Seção</p>
+                            <p class="data">0042</p>
+                        </div>
+                        <div class="separator-card-consulta"></div>
+                        <div class="body-row-5-div-col-2">
+                            <p class="info">Zona Eleitoral</p>
+                            <p class="data">001 - Centro</p>
+                        </div>
+                        <div class="separator-card-consulta"></div>
+                    </div>
+                    <p class="p-resultado-ilustrativo">* Resultado meramente ilustrativo.</p>
+                </div>
+            </div>
+        </div>
+        <div class="body-row-6">
+            <div style="text-align: center;">
+                <span class="h2-row-6">TESTE SEU CONHECIMENTO</span>
+                <h3 class="h3-row-6">Quiz Eleitoral</h3>
+                <p class="p-row-6">5 perguntas rápidas sobre o processo eleitoral brasileiro.</p>
+            </div>
+            <div class="container-body-row-6">
+                <div class="span-body-row-6-div">
+                    <span class="contador-pergunta">Pergunta 1 de 5</span>
+                    <span class="porcentagem">0%</span>
+                </div>
+                <div class="separator"></div>
+                <div>
+                    <h2 class="h2-pergunta">A partir de qual idade o voto se torna obrigatório no Brasil?</h2>
+                </div>
+                <div class="card-alternativa">
+                    <button class="button-quiz-eleitoral">14 anos</button>
+                </div>
+                <div class="card-alternativa">
+                    <button class="button-quiz-eleitoral">16 anos</button>
+                </div>
+                <div class="card-alternativa">
+                    <button class="button-quiz-eleitoral">18 anos</button>
+                </div>
+                <div class="card-alternativa">
+                    <button class="button-quiz-eleitoral">21 anos</button>
+                </div>
+                <div class="card-alternativa" style="text-align: center;">
+                    <button class="proxima-pergunta">Próxima Pergunta</button>
+                </div>
+            </div>
         </div>
     </main>
     <footer>
-
+        <p>https://www.tse.jus.br/institucional/corregedoria-geral-eleitoral/sistemas-e-servicos-1/consulta-titulo-e-local-de-votacao</p>
     </footer>
 </body>
 
