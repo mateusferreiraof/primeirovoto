@@ -1,7 +1,7 @@
 # primeirovoto
 
 # Passo a passo para rodar o projeto localmente:
-#**Baixe: PHP e composer**
+# **Baixe: PHP e composer**
 # Clone o repositório: git clone https://github.com/mateusferreiraof/primeirovoto.git
 # Ao abrir o projeto no vscode/terminal, rode o comando: npm install e depois composer install
 # **Configure as extensões do PHP, habilite: fileinfo, zip, pdo_sqlite e sqlite3**
